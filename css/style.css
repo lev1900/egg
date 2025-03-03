@@ -1,7 +1,40 @@
+body {
+    background-color: rgb(157, 137, 194);
+  }
 div[class^="col"]{
     min-height: 50px;
     border: 1px solid black;
 }
 .row{
     border: 1px dashed red;
+}
+h6 {
+    color:white;
+    font-family: "Special Elite", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .btn-primary {
+    background-color: #000000;
+} 
+  .fi-br-plus{
+color: rgb(255, 255, 255);
+  }
+  .fi-br-menu-burger{
+    color: white;
+  }
+  .fi-rs-settings{
+    color: white;
+  }
+  .fi-ss-user{
+    color: white;
+}
+.fi{
+    color:white;
+}
+.btn-secondary{
+    color:rgb(23, 7, 53);
+}
+.btn-sm{
+    color: rgb(108, 77, 180);
 }
