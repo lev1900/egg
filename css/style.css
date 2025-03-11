@@ -59,15 +59,18 @@ h5{
   .btn-primary {
     color: rgb(255, 255, 255);
     background-color: #000000;
-  
 } 
   
 .fi{
-  align-content: flex-end;
     color:white;
 }
 
 .btn-sm{
   background-color: rgb(26, 8, 59);
     color: rgb(106, 49, 133);
+}
+h4{
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
